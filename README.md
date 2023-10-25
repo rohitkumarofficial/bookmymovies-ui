@@ -61,3 +61,6 @@ Nx comes with local caching already built-in (check your `nx.json`). On CI you m
 - [Join the community](https://nx.dev/community)
 - [Subscribe to the Nx Youtube Channel](https://www.youtube.com/@nxdevtools)
 - [Follow us on Twitter](https://twitter.com/nxdevtools)
+
+## Documentation
+- Add angular material - first we need to install angular-material using `npm add @angular/material` command and then we need to add dependency in the project using `npx nx g @angular/material:ng-add` command
